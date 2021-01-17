@@ -78,7 +78,7 @@
       ]
     }
   ],
-  "jobs": [
+  "work": [
     {
       "company": "First Security Bank",
       "position": "Banking Center Manager",
@@ -105,34 +105,15 @@
   ],
   "volunteer": [
     {
-      "organization": "",
+      "organization": "Army National Guard",
       "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        
-      ]
-    }
-  ],
-  "service": [
-    {
-     "organization": "Army National Guard",
       "position": "MOS 09R - SMP Cadet",
       "startDate": "2019",
-      "endDate": "present"
+      "endDate": "present",
+      "summary": "",
+      "highlights": [
+        
+      ]
     }
   ],
   "references": [
