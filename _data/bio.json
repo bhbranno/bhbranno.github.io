@@ -127,7 +127,7 @@
       ]
     }
   ],
-  "Service": [
+  "service": [
     {
      "organization": "Army National Guard",
       "position": "MOS 09R - SMP Cadet",
